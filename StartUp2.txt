@@ -1,0 +1,7 @@
+cd /etc
+
+ls config.ini
+
+vfs
+
+exit

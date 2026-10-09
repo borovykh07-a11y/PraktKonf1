@@ -1,0 +1,14 @@
+{
+  "home": {
+    "user": {
+      "documents": {
+        "note.txt": "Это заметка",
+        "report.txt": "Это отчёт"
+      },
+      "readme.txt": "Добро пожаловать в VFS"
+    }
+  },
+  "etc": {
+    "config.ini": "some settings"
+  }
+}
