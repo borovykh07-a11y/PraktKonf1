@@ -1,0 +1,5 @@
+<config>
+    <vfs>vfs.json</vfs>
+    <prompt>my_shell&gt; </prompt>
+    <script>startup.txt</script>
+</config>
